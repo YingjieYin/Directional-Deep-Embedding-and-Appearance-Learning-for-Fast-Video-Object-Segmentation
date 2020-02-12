@@ -57,6 +57,10 @@ python3 -u runfiles/main_runfile.py --train --test
 ```
 
 Most settings used for training and evaluation are set in your runfiles. Each runfile should correspond to a single experiment. I supplied an example runfile.
+## Experimental results on DAVIS2016, DAVIS2017,Youtube-VOS 
+   DAVIS16_val.rar  链接：https://pan.baidu.com/s/1JetbLKoZSmT0IzHrqVPNjA 提取码：ca63
+   DAVIS17_val.rar  链接：https://pan.baidu.com/s/1G7zIwzOF3-Z25R6w4riWfA 提取码：y7d4 
+   YTVOS_val.rar    链接：https://pan.baidu.com/s/10tHuZxnis5R7mZmhOIZH0w 提取码：tdsl
 ## Demo results:
    Demo1_DAVIS2016.avi  链接：https://pan.baidu.com/s/19cMdbxU2ggOyGzZl0MwMWA 提取码：jdxq
    
