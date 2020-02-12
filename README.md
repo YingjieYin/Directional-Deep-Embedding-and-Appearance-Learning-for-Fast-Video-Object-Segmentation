@@ -42,8 +42,8 @@ git clone https://github.com/YingjieYin/Directional-Deep-Embedding-and-Appearanc
 1. Download weights from 
 链接：https://pan.baidu.com/s/1fcsHWNmE1e5xL5k9AJjmnw 
 提取码：y5xx 
-
 （ONLY ONE UNITED MODEL FOR ALL TESTING DATSETS OF DAVIS2016, DAVIS2017,YOUTUBE-VOS CAN ACHIEVE THE RESULTS IN OUR PAPER!）
+
 2. Put the weights at the path pointed out by config['workspace_path'] in local_config.py.
 3. Run
 ```bash
