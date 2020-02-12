@@ -56,4 +56,5 @@ python3 -u runfiles/main_runfile.py --train --test
 ```
 
 Most settings used for training and evaluation are set in your runfiles. Each runfile should correspond to a single experiment. I supplied an example runfile.
-![image](https://github.com/YingjieYin/Directional-Deep-Embedding-and-Appearance-Learning-for-Fast-Video-Object-Segmentation/blob/master/results.jpg)
+## Demo results:
+![image](https://github.com/YingjieYin/Directional-Deep-Embedding-and-Appearance-Learning-for-Fast-Video-Object-Segmentation/blob/master/results.png)
