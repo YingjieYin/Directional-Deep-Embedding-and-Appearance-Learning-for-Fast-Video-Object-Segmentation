@@ -40,6 +40,9 @@ git clone https://github.com/YingjieYin/Directional-Deep-Embedding-and-Appearanc
 
 ## How to run method on DAVIS and YouTubeVOS with pre-trained weights:
 1. Download weights from 
+链接：https://pan.baidu.com/s/1fcsHWNmE1e5xL5k9AJjmnw 
+提取码：y5xx 
+
 2. Put the weights at the path pointed out by config['workspace_path'] in local_config.py.
 3. Run
 ```bash
