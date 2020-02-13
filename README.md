@@ -40,8 +40,8 @@ git clone https://github.com/YingjieYin/Directional-Deep-Embedding-and-Appearanc
 
 ## How to run method on DAVIS and YouTubeVOS with pre-trained weights:
 1. Download weights from 
-链接：https://pan.baidu.com/s/1fcsHWNmE1e5xL5k9AJjmnw 
-提取码：y5xx 
+Link：https://pan.baidu.com/s/1fcsHWNmE1e5xL5k9AJjmnw 
+Password：y5xx 
 （This UNITED TRAINED MODEL CAN ACHIEVE THE RESULTS ON ALL TESTING DATSETS OF DAVIS2016, DAVIS2017,YOUTUBE-VOSIN IN OUR PAPER!!）
 
 2. Put the weights at the path pointed out by config['workspace_path'] in local_config.py.
@@ -58,16 +58,16 @@ python3 -u runfiles/main_runfile.py --train --test
 
 Most settings used for training and evaluation are set in your runfiles. Each runfile should correspond to a single experiment. I supplied an example runfile.
 ## Experimental results on DAVIS2016, DAVIS2017,Youtube-VOS 
-   DAVIS16_val.rar  链接：https://pan.baidu.com/s/1JetbLKoZSmT0IzHrqVPNjA 提取码：ca63
+   DAVIS16_val.rar  Link：https://pan.baidu.com/s/1JetbLKoZSmT0IzHrqVPNjA Password：ca63
    
-   DAVIS17_val.rar  链接：https://pan.baidu.com/s/1G7zIwzOF3-Z25R6w4riWfA 提取码：y7d4 
+   DAVIS17_val.rar  Link：https://pan.baidu.com/s/1G7zIwzOF3-Z25R6w4riWfA Password：y7d4 
    
-   YTVOS_val.rar    链接：https://pan.baidu.com/s/10tHuZxnis5R7mZmhOIZH0w 提取码：tdsl
+   YTVOS_val.rar    Link：https://pan.baidu.com/s/10tHuZxnis5R7mZmhOIZH0w Password：tdsl
 ## Compared results:
-   Demo1_DAVIS2016.avi  链接：https://pan.baidu.com/s/19cMdbxU2ggOyGzZl0MwMWA 提取码：jdxq
+   Demo1_DAVIS2016.avi  Link：https://pan.baidu.com/s/19cMdbxU2ggOyGzZl0MwMWA Password：jdxq
    
-   Demo2_DAVIS2017.avi  链接：https://pan.baidu.com/s/1raT-G2Jc-hJljyubPodpXA 提取码：0oqv 
+   Demo2_DAVIS2017.avi  Link：https://pan.baidu.com/s/1raT-G2Jc-hJljyubPodpXA Password：0oqv 
    
-   Demo3_YouTube-VOS.avi 链接：https://pan.baidu.com/s/1ymDMrblZ8P_d0byOwnJW8Q 提取码：qtkc
+   Demo3_YouTube-VOS.avi Link：https://pan.baidu.com/s/1ymDMrblZ8P_d0byOwnJW8Q Password：qtkc
    
 ![image](https://github.com/YingjieYin/Directional-Deep-Embedding-and-Appearance-Learning-for-Fast-Video-Object-Segmentation/blob/master/results.png)
