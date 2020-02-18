@@ -1,7 +1,9 @@
 # Directional-Deep-Embedding-and-Appearance-Learning-for-Fast-Video-Object-Segmentation
 ##Paper: 
+
 Please refer to the paper:
-Yingjie Yin,De Xu, Xingang Wang, and Lei Zhang, Directional Deep Embedding and Appearance Learning for Fast Video Object Segmentation,
+
+Yingjie Yin, De Xu, Xingang Wang, and Lei Zhang, Directional Deep Embedding and Appearance Learning for Fast Video Object Segmentation,
 http://arxiv.org/abs/2002.06736.
 
 ## Dependencies:
