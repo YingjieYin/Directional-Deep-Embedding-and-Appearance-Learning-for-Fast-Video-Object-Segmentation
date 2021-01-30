@@ -4,7 +4,7 @@
 Please refer to the paper:
 
 Yingjie Yin, De Xu, Xingang Wang, and Lei Zhang, Directional Deep Embedding and Appearance Learning for Fast Video Object Segmentation,
-http://arxiv.org/abs/2002.06736.
+http://arxiv.org/abs/2002.06736. This paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems.
 
 ## Dependencies:
 ```bash
